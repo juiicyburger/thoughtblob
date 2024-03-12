@@ -1,50 +1,19 @@
 ---
-title: Example Page
-nav: Example
+title: Hello, World!
+nav: Hello, World!
 nav_order: 1
 ---
 
-Write pages in Markdown.
+A utterance into a great void.
 
-## Heading Two 
+I've avoided blogging for a long while now because I don't think I have anything to say (not anything new anyways). I'm scared of being wrong. Of looking a fool.
 
-Any text with no empty lines between will become a paragraph.
-Leave an blank line between headings and paragraphs.
-Font can be *Italic* or **Bold**.
-Code can be highlighted with `backticks`.
+But [this post](https://guzey.com/personal/why-have-a-blog/) by Alexey Guzey has convinced me to start.
 
-Hyperlinks look like this [GitHub Help](https://help.github.com/).
+Besides, I need a website to play around with to build up my coding skills — this is my main hobby/practice outside of work right now.
 
-### Lists 
+What can you expect from this blog?
 
-A bullet list is created using `*`, `+`, or `-`, like:
+I can't answer that yet. Whatever I spit up onto this blog will answer that in time.
 
-- dog
-- cat
-- muffin
-
-A numbered list is created using a number + `.`, like:
-
-1. one
-2. two
-6. three
-2. four
-
-Horizontal rule:
-
---------------
-
-{% include figure.html img="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/VAN_CAT.png/480px-VAN_CAT.png" alt="white cat" caption="I found this [Cat image on Wikimedia](https://commons.wikimedia.org/wiki/File:VAN_CAT.png)." %}
-
-> A block quote.
-> Is like this.
-{:.blockquote}
-
-### A Table
-
-| header | column a | column b |
-| --- | --- | --- |
-| dogs | 3 | 6 |
-| cats | 3 | 6 |
-| muffins | 15 | 30 |
-{:.table .table-striped}
+For now I just know that it'll be a place to plop my thoughts and hopefully develop them into some interesting ones.
