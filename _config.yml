@@ -9,12 +9,12 @@
 #######
 # SITE SETTINGS
 #
-title: bootstrap-template
-description: "a basic bootstrap template for Jekyll with GitHub Pages"
-year: 2020
-author: evan will 
+title: thoughtblob
+description: "A place to plop my thoughts"
+year: 2024
+author: juiicyburger 
 # add search box to navbar, true/false
-search: true
+# search: true
 
 ##########
 # URL VARIABLES [optional!]
